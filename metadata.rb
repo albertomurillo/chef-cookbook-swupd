@@ -1,7 +1,7 @@
 name 'swupd'
 maintainer 'Alberto Murillo'
 maintainer_email 'alberto.murillo.silva@intel.com'
-license 'All Rights Reserved'
+license 'Apache-2.0'
 description 'Extends package resource with swupd provider for ClearLinux nodes'
 long_description 'Extends package resource with swupd provider for ClearLinux nodes'
 version '0.1.0'
